@@ -37,5 +37,8 @@
     "karma-qunit": "1.0.0",
     "karma-sauce-launcher": "1.0.0",
     "qunitjs": "2.0.0-rc1"
+  },
+  "dependencies": {
+    "impress-server": "0.0.8"
   }
 }
